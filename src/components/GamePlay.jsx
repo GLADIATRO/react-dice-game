@@ -66,7 +66,7 @@ const GamePlay = () => {
 export default GamePlay;
 
 const MainContainer = styled.main`
-  padding-top: 70px;
+  padding-top: 65px;
   .top_section {
     display: flex;
     justify-content: space-around;
